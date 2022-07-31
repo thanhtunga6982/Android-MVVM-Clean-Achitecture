@@ -1,4 +1,6 @@
 # Android-MVVM-Clean-Achitecture
+
+Technical use : Navigation + Hilt + Coroutine + Gradle KTS + MVVM + Live Data + Retrofit + View Binding + Room Database 
 Navigation (Note) : 
 - Navigation refers to the interactions that allow users to navigate across, into, and back out from the different pieces of content within your app
 - The mechanism of navigation like replaceFragment. Not has maschanism addFragment so when popbackstack when must handle holding data.
@@ -14,7 +16,7 @@ Coroutine
 - How does coroutine concept works : 
 Kotlin coroutine is a way of doing things asynchronously in a sequential manner. Creating a coroutine is a lot cheaper vs creating a thread.
 
- Design Pattern : MVVM ( Model - View - ViewModel)
+Design Pattern : MVVM ( Model - View - ViewModel)
 - Model : Which is responsible for representing and holding the application data.( Model, Repository, Api Service .. )
 - View : It represents the user interface of the application without any Application Logic. It observes the ViewModel
 - ViewModel:  It is reponsible for preparing and handle data for UI( Activity or Fragment).
