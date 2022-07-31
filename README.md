@@ -1,6 +1,7 @@
 # Android-MVVM-Clean-Achitecture
 
 Technical use : Navigation + Hilt + Coroutine + Gradle KTS + MVVM + Live Data + Retrofit + View Binding + Room Database 
+
 Navigation (Note) : 
 - Navigation refers to the interactions that allow users to navigate across, into, and back out from the different pieces of content within your app
 - The mechanism of navigation like replaceFragment. Not has maschanism addFragment so when popbackstack when must handle holding data.
