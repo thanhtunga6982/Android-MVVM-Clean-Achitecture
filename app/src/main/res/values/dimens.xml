@@ -1,0 +1,58 @@
+<resources>
+    <dimen name="half_padding">4dp</dimen>
+    <dimen name="half_quarter_padding">6dp</dimen>
+    <dimen name="single_padding">8dp</dimen>
+    <dimen name="single_quarter_padding">12dp</dimen>
+    <dimen name="full_padding">16dp</dimen>
+    <dimen name="full_quarter_padding">20dp</dimen>
+    <dimen name="double_full_padding">32dp</dimen>
+
+    <dimen name="space_40dp">40dp</dimen>
+    <dimen name="space_50dp">50dp</dimen>
+
+    <dimen name="text_size_tiny">4sp</dimen>
+    <dimen name="text_size_xxsmall">8sp</dimen>
+    <dimen name="text_size_xsmall">10sp</dimen>
+    <dimen name="text_size_small">12sp</dimen>
+    <dimen name="text_size_normal">14sp</dimen>
+    <dimen name="text_size_normal_plus">15sp</dimen>
+    <dimen name="text_size_large">16sp</dimen>
+    <dimen name="text_size_xlarge">18sp</dimen>
+    <dimen name="text_size_xxlarge">20sp</dimen>
+    <dimen name="text_size_40sp">40sp</dimen>
+
+    <dimen name="margin_small">4dp</dimen>
+    <dimen name="margin_medium">8dp</dimen>
+    <dimen name="margin_medium_X">12dp</dimen>
+    <dimen name="margin_big">16dp</dimen>
+    <dimen name="margin_big_XX">28dp</dimen>
+    <dimen name="margin_big_XXX">44dp</dimen>
+    <dimen name="margin_big_XXXX">62dp</dimen>
+
+    <dimen name="padding_small">4dp</dimen>
+    <dimen name="padding_medium">8dp</dimen>
+    <dimen name="padding_big">16dp</dimen>
+    <dimen name="padding_bigXX">28dp</dimen>
+
+    <dimen name="space_2dp">2dp</dimen>
+    <dimen name="space_4dp">4dp</dimen>
+    <dimen name="space_5dp">5dp</dimen>
+    <dimen name="space_8dp">8dp</dimen>
+    <dimen name="space_12dp">12dp</dimen>
+    <dimen name="space_15dp">15dp</dimen>
+    <dimen name="space_16dp">16dp</dimen>
+    <dimen name="space_20dp">20dp</dimen>
+    <dimen name="space_24dp">24dp</dimen>
+    <dimen name="space_32dp">32dp</dimen>
+
+    <!--Height-->
+    <dimen name="buttonHeightDefault">60dp</dimen>
+
+    <!--Button Radius-->
+    <dimen name="DefaultButtonRadius">8dp</dimen>
+
+    <dimen name="register_field_height">45dp</dimen>
+    <dimen name="shape_rounded_rectangle_corner_radius">7dp</dimen>
+    <dimen name="dialog_width">300dp</dimen>
+
+</resources>
