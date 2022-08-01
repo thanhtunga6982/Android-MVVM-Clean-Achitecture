@@ -18,6 +18,11 @@
 - How does coroutine concept works : 
 Kotlin coroutine is a way of doing things asynchronously in a sequential manner. Creating a coroutine is a lot cheaper vs creating a thread.
 
+**LiveData**
+- LiveData is observer class, can be aware life cycle of the application such as activiy, fragment, service.
+- Commonly used with ViewModel, AndroidViewModel
+- Because aware life cycle of the application should will not leak memory app.
+
 **Design Pattern : MVVM ( Model - View - ViewModel)**
 - Model : Which is responsible for representing and holding the application data.( Model, Repository, Api Service .. )
 - View : It represents the user interface of the application without any Application Logic. It observes the ViewModel
