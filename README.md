@@ -12,6 +12,7 @@
 - Dependency Injection is design pattern designed with purpose prevent dependencies between classes, to clean code ,easy maintenance and update code
 - How does DI Work: provide containers for all class Android in project and auto manager their cycler.
   Ex : When we are in class B but want access method of class A so usual way we new instance class then access to method it. In such a way, it consumes memory, make difficult to write unittest. While if use DI then we just need @Inject to object or class we need to get.
+  
 **Coroutine**
 - What is coroutine :Is lightweight threads for asynchronous programming, Coroutines not only open the doors to asynchronous programming, but also provide a wealth of other possibilities such as concurrency, actors, etc.
 - How does coroutine concept works : 
